@@ -1,4 +1,4 @@
-# RetailPulse — Ecommerce Sales Dashboard
+# Ecommerce Sales Dashboard
 
 A complete Excel-based business intelligence dashboard designed to transform raw ecommerce transactions into meaningful business insights using interactive visualizations and dynamic reporting.
 
