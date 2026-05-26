@@ -32,7 +32,7 @@ The dashboard enables users to:
 
 ---
 
-## 🛠 Features Implemented
+## Features Implemented
 
 ### Data Cleaning
 - Removed blanks and duplicates
